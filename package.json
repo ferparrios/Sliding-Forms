@@ -2,7 +2,6 @@
   "name": "slidingforms",
   "version": "0.0.1",
   "description": "Component for React Native Forms in carousel",
-  "private": true,
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": ["src/", "dist/", "types/*"],
