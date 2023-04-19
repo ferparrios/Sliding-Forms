@@ -1,2 +1,2 @@
-export {default as Button} from './Button'
-export {default as Input} from './Input'
+export * from './Container/Container'
+export * from './Inputs/Inputs'
